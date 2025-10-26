@@ -9,6 +9,13 @@
 	"compatibility_date": "2025-06-17",
 	"compatibility_flags": ["nodejs_compat"],
 	"observability": {
-		"enabled": true,
+		"enabled": true
 	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "38954b33-18ba-4ae5-a885-d75b96eaf60f",
+			"remote": true
+		}
+	]
 }
